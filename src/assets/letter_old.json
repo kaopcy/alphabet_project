@@ -1,0 +1,94 @@
+{
+  "letters": [
+    [
+      {
+        "char": "ก",
+        "color": "black",
+        "source":"sound/กระดาษ/กอ.mp3"
+      },
+      {
+        "char": "ร",
+        "color": "black",
+        "source":"sound/กระดาษ/รอ.mp3"
+      },
+  
+      {
+        "char": "ะ",
+        "color": "black",
+        "source":"sound/กระดาษ/อะ.mp3"
+      },
+  
+      {
+        "char": "",
+        "color": "black",
+        "source":"sound/กระดาษ/กระ.mp3"
+      },
+  
+      {
+        "char": "ด",
+        "color": "black",
+        "source":"sound/กระดาษ/ดอ.mp3"
+      },
+    
+      {
+        "char": "า",
+        "color": "black",
+        "source":"sound/กระดาษ/อา.mp3"
+      },
+    
+      {
+        "char": "ษ",
+        "color": "black",
+        "source":"sound/กระดาษ/สอ.mp3"
+      },
+    
+      {
+        "char": "",
+        "color": "black",
+        "source":"sound/กระดาษ/ดาด.mp3"
+      },
+    
+      {
+        "char": "",
+        "color": "black",
+        "source":"sound/กระดาษ/กระดาษ.mp3"
+      }
+    ],
+    [
+      {
+        "char": "ค",
+        "color": "black",
+        "source":"sound/แคร่/คอ.mp3"
+      },
+      {
+        "char": "แ",
+        "color": "black",
+        "source":"sound/แคร่/แอ.mp3"
+      },
+
+      {
+        "char": "ร",
+        "color": "black",
+        "source":"sound/แคร่/รอ.mp3"
+      },
+
+      {
+        "char": "",
+        "color": "black",
+        "source":"sound/แคร่/แคร.mp3"
+      },
+
+      {
+        "char": "่",
+        "color": "black",
+        "source":"sound/แคร่/เอก.mp3"
+      },
+    
+      {
+        "char": "",
+        "color": "black",
+        "source":"sound/แคร่/แคร่.mp3"
+      }
+    ]
+  ]
+}

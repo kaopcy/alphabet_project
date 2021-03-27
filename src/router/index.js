@@ -1,6 +1,10 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
+import Table from '../views/Table.vue'
+import EventMethod from "../views/EventMethod.vue"
+import DataFile from "../views/DataFile.vue"
+import Form from "../views/Form.vue"
 
 Vue.use(VueRouter)
 
@@ -11,13 +15,26 @@ const routes = [
     component: Home
   },
   {
-    path: '/about',
-    name: 'About',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
+    path: '/table',
+    name: 'table',
+    component: Table
+  },
+  {
+    path: '/eventmethod',
+    name: 'evenmethod',
+    component: EventMethod
+  },
+  {
+    path: '/datafile',
+    name: "datafield",
+    component: DataFile
+  },
+  {
+    path: '/Form',
+    name: "Form",
+    component: Form
   }
+  
 ]
 
 const router = new VueRouter({
